@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BilgiSaklamaProjesi"
+rootProject.name = "AndroidAlertDialog"
 include(":app")
- 
